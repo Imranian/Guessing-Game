@@ -9,4 +9,4 @@ path> cd 'path of the python script/code'
 
 new_path> pyinstaller --onefile guess.py       # customize the python file name
 
-**Check for the installed .exe file in dict**
+**Check for the installed .exe file in dist**
