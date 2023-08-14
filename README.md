@@ -1,2 +1,2 @@
-# Guessing-Game
-This is a simple guessing game crafted with Python and the Tkinter library for the graphical user interface
+# GG(Guessing Game)
+A simple guessing game using Python and the Tkinter library for the graphical user interface. It's a great example of how you can create interactive desktop applications using Python. Users can input their guesses, receive feedback on whether their guess is too high or too low, and the app keeps track of the remaining chances. It's a fun project to help you learn about programming GUI applications and user interactions.
